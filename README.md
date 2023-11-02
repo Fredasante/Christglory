@@ -1,5 +1,5 @@
-Unicorn education website
+ChristGlory church website
 
-This website is fully responsive for all devices, which was built using HTML, CSS and Javascript.
+This website is fully responsive for all devices, built using HTML, CSS and Javascript.
 
-[Demo Link to Application](https://unicorn-edu.netlify.app/)
+[Demo Link to Application](https://christglory.netlify.app/)
